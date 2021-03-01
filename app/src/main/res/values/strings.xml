@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zametki</string>
+    <string name="tittle">Tittle</string>
+    <string name="_1970_1_1">1970.1.1</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+    <string name="plus">+</string>
+    <string name="priority">Priority:</string>
+</resources>
